@@ -43,7 +43,7 @@
     "marked": "^0.3.19",
     "moment": "^2.22.2",
     "mongodb": "^2.2.36",
-    "mongoose": "^4.13.19",
+    "mongoose": "^5.7.5",
     "mqtt": "^2.18.8",
     "node-fetch": "^1.7.3",
     "node-schedule": "*",
